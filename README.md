@@ -1,9 +1,11 @@
-<p align="center">
-  <a href="https://putuhema-dev.vercel.app">
-   <img src="https://raw.githubusercontent.com/putuhema/putuhema/refs/heads/main/miku-pat.gif" alt="miku gif" />
-  </a>
-  
-</p>
+<div align="center">
+   <img src="https://raw.githubusercontent.com/putuhema/putuhema/refs/heads/main/miku-pat.gif" alt="miku gif" width="25%" />
+<br><br>
+  <p>Putu Mahendra</p>
+<pre  >
+    💼 Fullstack Developer 
+    🎮 Music • Games • Anime • Code • Art
+    💻 JS/TS, PHP, C#, JAVA ...
+</pre>
+</div>
 
-<h1 align="center">Hi, I'm <a href="https://putuhema-dev.vercel.app">Putu Mahendra</a>!</h1>
-<h3 align="center">Welcome to my GitHub profile </h3>
