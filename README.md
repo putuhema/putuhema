@@ -1,9 +1,15 @@
-## About Me
-Hey there! I'm a web dev who loves picking up new things, playing games, vibing to music, and messing around with code right from my text editor. 
+<p align="center">
+  <a href="https://putuhema-dev.vercel.app">
+    <img src="https://putuhema-dev.vercel.app/images/zero2.png" alt="Banner" width="50%">
+  </a>
+</p>
 
-I'm always curious about how stuff works, so I'm usually diving into some new tech just for fun.
+<h1 align="center">Hi, I'm <a href="https://putuhema-dev.vercel.app">Putu Mahendra</a>!</h1>
+<p align="center">
+  <a href="https://putuhema-dev.vercel.app">
+    <img src="https://putuhema-dev.vercel.app/images/zero2.png" alt="putuhema">
+  </a>
+</p>
+<h3 align="center">Welcome to my GitHub profile </h3>
 
-I’ve played around with all sorts of languages like JavaScript/TypeScript, Java, Python, PHP, Lua, and C# — just whatever feels fun at the time.
-
-## What I Build for Fun
-Sometimes I mess with frontend stuff, sometimes backend, and when I’m feeling fancy, I go fullstack. Just depends on the mood 😄
+<p align="center">❤ I'm currently working on Web Dev.</p>
