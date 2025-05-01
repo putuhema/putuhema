@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://putuhema-dev.vercel.app">
-   <img src="https://tenor.com/bwyXx.gif" alt="miku gif" />
+   <img src="https://raw.githubusercontent.com/putuhema/putuhema/refs/heads/main/miku-pat.gif" alt="miku gif" />
   </a>
   
 </p>
